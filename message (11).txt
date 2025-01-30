@@ -108,4 +108,4 @@ local function notify(title, text, duration)
 	activeNotifications = activeNotifications - 1
 end
 
-notify("Hello", "Tracing outline effect!", 5)
+notify("LDQ HUB", "Welcome to LDQ HUB. This notification will auto close after 5s", 5)
