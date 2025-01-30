@@ -109,3 +109,4 @@ local function notify(title, text, duration)
 end
 
 notify("LDQ HUB", "Welcome to LDQ HUB. This notification will auto close after 5s", 5)
+notify("LDQ HUB", "Successfully bypassed anticheat. This notification will auto close after 5s", 5)
